@@ -7,7 +7,6 @@
 Gabriel Tellez - Student ID. 0314123
 
 
-Auckland University of Technology. Bachelor of Information Technology. 29th October 2003.
-
+Auckland University of Technology. Bachelor of Information Technology. 
 
 Module 407701 - Intelligent Systems
