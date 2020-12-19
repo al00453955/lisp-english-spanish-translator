@@ -1,6 +1,6 @@
 # lisp-english-spanish-translator
 
-## 29 October 2003
+## 29 October @ Auckland University of Technology, NZ
 
 ### About
 
